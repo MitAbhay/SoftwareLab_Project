@@ -57,3 +57,4 @@ CropCompass helps farmers make **smarter crop decisions** by combining **agricul
 ---
 ## Contributors
 - Abhay Kumar Mittal
+-Pankaj Ramesh Badgujar
