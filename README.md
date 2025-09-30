@@ -55,3 +55,5 @@ By integrating soil health, weather, and market data, it recommends the **best c
 CropCompass helps farmers make **smarter crop decisions** by combining **agriculture, environment, and economics** into a single decision-support tool.
 
 ---
+## Contributors
+- Abhay Kumar Mittal
