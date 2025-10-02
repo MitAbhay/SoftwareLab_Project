@@ -60,4 +60,4 @@ CropCompass helps farmers make **smarter crop decisions** by combining **agricul
 
 - Abhay Kumar Mittal - 25m0822
 - Pankaj Ramesh Badgujar -25m0782
-- Shivam Sharad Sanap - 25M0793
+- Shivam Sharad Sanap - 25M0793 IITB
