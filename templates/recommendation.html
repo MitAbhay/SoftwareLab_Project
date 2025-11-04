@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+  <h2>Recommendations</h2>
+  <ul>
+    {% for r in recommendations %}
+      <li>{{ r.crop }} — ROI: {{ r.expected_roi }} — Sowing: {{ r.sowing_date }} — Harvest: {{ r.harvest_date }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
