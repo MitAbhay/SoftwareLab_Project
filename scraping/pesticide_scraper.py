@@ -148,7 +148,7 @@ def parse_product_card(card_div):
         if not is_valid_product(name, price):
             return None
         
-         description = ""
+        description = ""
         desc_elem = card_div.find("p", class_=re.compile(r"desc|info|detail"))
         if desc_elem:
             description = clean_text(desc_elem.get_text())[:150]
